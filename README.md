@@ -66,7 +66,7 @@
    * [Acceptance testing (test case)](https://docs.google.com/spreadsheets/d/108mJnO2IuItYMlUOhtoJstRJyeL0BsyvDHhWPDxvOD4/edit?usp=sharing)
    
 ## SQL (compilation of queries of varying complexity)
-   * Compilation of queries of varying complexity.
+   * The queries of varying complexity.
 
 ## My HTML/CSS projects
    * [APPIX (browsing)](https://ak21081982.github.io/s_apx/)
