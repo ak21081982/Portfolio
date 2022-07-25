@@ -12,3 +12,7 @@
    * [Specification (website HOUSES MANAGEMENT)](https://docs.google.com/spreadsheets/d/13Z6Td5KZEHSsRXccmeMHlsBW1wpKx9VTTwz59w_LW4k/edit?usp=sharing)
    
    * [Good and bad specification (example)](https://docs.google.com/spreadsheets/d/1WYyw5K4KcZpO_CblFIx5U8MKzTfoJU69x695x5bP5uA/edit?usp=sharing)
+        
+
+## Check list
+   * [Check list](https://docs.google.com/spreadsheets/d/1Y1pSoHFdtjldNcR766Vnf-agfvw97bEEJX5Tfb0LEsE/edit?usp=sharing)
