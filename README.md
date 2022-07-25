@@ -59,4 +59,8 @@
    
    * [Security testing (Client side CORS vulnerabilities)](https://docs.google.com/spreadsheets/d/1DTG5i57eOh6weXdsAjJ8rWxlYlpuvk9Gtpx0vD1a6r8/edit?usp=sharing)
    
-   * [Security testing. (XSS vulnerability)](https://docs.google.com/spreadsheets/d/18WqkhD08IEkfMzC9XQg7M5wRkVNIZV9yCZiAxJQHciY/edit?usp=sharing)
+   * [Security testing (XSS vulnerability)](https://docs.google.com/spreadsheets/d/18WqkhD08IEkfMzC9XQg7M5wRkVNIZV9yCZiAxJQHciY/edit?usp=sharing)
+      
+   
+## Acceptance testing (test case)
+   * [Acceptance testing (test case)](https://docs.google.com/spreadsheets/d/108mJnO2IuItYMlUOhtoJstRJyeL0BsyvDHhWPDxvOD4/edit?usp=sharing)
