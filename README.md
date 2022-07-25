@@ -64,3 +64,9 @@
    
 ## Acceptance testing (test case)
    * [Acceptance testing (test case)](https://docs.google.com/spreadsheets/d/108mJnO2IuItYMlUOhtoJstRJyeL0BsyvDHhWPDxvOD4/edit?usp=sharing)
+   
+## SQL (compilation of queries of varying complexity)
+   * Compilation of queries of varying complexity.
+
+## My HTML/CSS projects
+   * No data
