@@ -69,4 +69,5 @@
    * Compilation of queries of varying complexity.
 
 ## My HTML/CSS projects
-   * No data
+   * [APPIX (browsing)](https://ak21081982.github.io/s_apx/)
+   * [APPIX (date)](https://github.com/ak21081982/s_apx.git)
